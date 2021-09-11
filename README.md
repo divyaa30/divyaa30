@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **HTML,CSS, JS, C++, Open Sounce, Community Management**
 
-- 📫 Willing to reach me, shoot a mail at **itsdivyasuri@gmail.com**
+- 📫 Willing to reach me, shoot a mail at **suridivya30@gmail.com**
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
