@@ -1,4 +1,4 @@
-<h1 align = 'center' > Hello < Developers/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I' m Divya Suri </h1>
+<h1 align = 'center' > Hello < Developers > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I' m Divya Suri </h1>
 <p align='center'>
 <h3 align="center"> I am A Passionate Frontend Developer and Problem Solving enthusiast </h3>
 
