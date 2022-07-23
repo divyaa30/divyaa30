@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend and C++ Projects**
 
-- 💬 Ask me about **HTML,CSS, JS, C++, Open Sounce, Community Management**
+- 💬 Ask me about **HTML,CSS, C++, Community Management**
 
 - 📫 Willing to reach me, shoot a mail at **suridivya30@gmail.com**
 
